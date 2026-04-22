@@ -1,0 +1,43 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# IDEs / editors
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Node / frontend
+node_modules/
+dist/
+build/
+coverage/
+*.log
+.vite/
+playwright-report/
+test-results/
+
+# .NET / backend
+bin/
+obj/
+*.pdb
+*.dll
+appsettings.*.local.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Misc
+*.bak
